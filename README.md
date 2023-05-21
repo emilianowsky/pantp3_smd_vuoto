@@ -1,0 +1,1 @@
+# pantp3_smd_vuoto
