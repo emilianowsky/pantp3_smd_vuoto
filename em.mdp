@@ -40,9 +40,9 @@ energygrps               =
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;, Temperature coupling  
 tcoupl                   = No
-tc-grps                  = Water non-water
-tau-t                    = 1 1 
-ref-t                    = 300 300
+tc-grps                  = System
+tau-t                    = 1 
+ref-t                    = 300
 
 
 ; SIMULATED ANNEALING  
