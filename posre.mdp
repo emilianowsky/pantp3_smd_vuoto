@@ -39,9 +39,9 @@ energygrps               =
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;, Temperature coupling  
 tcoupl                   = v-rescale
-tc-grps                  = Water non-water
-tau-t                    = 0.1 0.1
-ref-t                    = 300 300
+tc-grps                  = System
+tau-t                    = 0.1
+ref-t                    = 300
 
 Pcoupl                   = berendsen
 Pcoupltype               = isotropic
