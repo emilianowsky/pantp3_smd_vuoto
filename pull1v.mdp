@@ -20,8 +20,8 @@ rvdw                     = 1
 
 
 integrator               = md             
-dt                       = 0.004
-nsteps                   = 300000            
+dt                       = 0.002
+nsteps                   = 1000000            
 
 ;;;;;;;;;; minimization
 
